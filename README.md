@@ -1,6 +1,8 @@
 # moon_impact_on_behaviour
 
-## Check for correlation on Emegency 911 calls and Fitbit sleep data with the phase of the moon.
+### Can we find evidence for any impact on human behaviour in emergency 911 calls and then also into sleep patterns which would infer changes in behaviour?
+
+##### Includes exploration of the 911 emergency calls data source and fitbit sleep pattern info then correlation checks against phases of the moon.
 
 Tableau presentation: https://public.tableau.com/app/profile/andy1881/viz/MoonStuff/MoonPower
 
